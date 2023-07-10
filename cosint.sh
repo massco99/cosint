@@ -1,3 +1,12 @@
+#created by massco99
+#all thanks to GOD
+#massco99 hacker @YouTube
+#https://www.youtube.com/@massco99hacker/videos
+#videoonlinecosmas99.atwebpages.com
+# cosint is the tool used to find online social mediac account for facebook and instagram
+##
+echo welcome to massco99 hacking tools
+##
 
 #!/bin/bash
 cat << "EOF"
